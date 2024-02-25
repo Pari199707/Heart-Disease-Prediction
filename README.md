@@ -1,10 +1,10 @@
 # Heart-Disease-Prediction
-Tech Stack
-Language: python
 
+# Tech Stack
+Language: python
 Libraries: numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
 
-Appendix
+# Appendix
 Exploratory Data Analysis
 Classification Models Used:
 LogisticRegression,
